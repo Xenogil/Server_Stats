@@ -5,4 +5,4 @@
 
 Roadma.sh project URL : https://roadmap.sh/projects/server-stats
 
-About me - xenogil.notion.site
+About me - https://xenogil.notion.site
